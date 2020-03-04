@@ -13,7 +13,7 @@ This is a Zomato-Phishing Tool with OTP Bypass ! Zomato
 # How to Intsall & Use
 root ---must !
 1. git clone https://github.com/Ignitetch/Zomato-Phishing.git
-2. cd Paytmphishing
+2. cd Zomato-Phishing
 3. chmod 777 Paytm.sh
 4. ./Paytm.sh
 
