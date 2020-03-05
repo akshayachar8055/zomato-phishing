@@ -19,7 +19,7 @@ root ---must !
 1. git clone https://github.com/Ignitetch/Zomato-Phishing.git
 2. cd Zomato-Phishing
 3. chmod 777 Zomato.sh
-4. ./Paytm.sh
+4. ./Zomato.sh
 
 # Contact For Contribute
 sg5479845@gmail.com
